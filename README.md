@@ -36,14 +36,14 @@
 
 
         <li> Singing</li>
-        <li>Coding.</li>
+        <li>Coding</li>
     </ul>
 
 
     <hr>
     <h3>Education:</h3>
     <table>
-        <thead>
+        
             <tr>
                 <td><strong>Class: 1-10</strong></td>
                 <td>&nbsp; Christ School Manipal.</td>
@@ -55,12 +55,12 @@
                 <td><strong>Engineering:</strong></td>
                 <td>&nbsp; MIT, Manipal.</td>
             </tr>
-        </thead>
+        
     </table>
     <hr>
     <h3>Contact Me:</h3>
     <table>
-        <thead>
+       
             <tr>
                 <td><strong>Phone:</strong></td>
                 <td>&nbsp;9632382065 </td>
@@ -72,7 +72,7 @@
                 <td><strong>E-mail:</strong></td>
                 <td>&nbsp; harowar2002@gmail.com </td>
             </tr>
-        </thead>
+       
     </table>
    <hr>
 
