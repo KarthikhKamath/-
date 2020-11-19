@@ -33,30 +33,49 @@
         <li>
             Photo Editing
         </li>
-        
-        
-           <li> Singing</li>
+
+
+        <li> Singing</li>
         <li>Coding.</li>
     </ul>
 
 
     <hr>
     <h3>Education:</h3>
-
-    <ul>
-        <li><strong>Class: 1-10</strong> Christ School Manipal.</li>
-        <li><strong>Class: <strong></strong> 11-12</strong> Vidyodaya Pre University.</li>
-        <li><strong>Engineering</strong> MIT, Manipal.</li>
-    </ul>
+    <table>
+        <thead>
+            <tr>
+                <td><strong>Class: 1-10</strong></td>
+                <td>&nbsp; Christ School Manipal.</td>
+            <tr>
+                <td><strong>Class: 11-12</strong></td>
+                <td> &nbsp; Vidyodaya Pre University</td>
+            </tr>
+            <tr>
+                <td><strong>Engineering:</strong></td>
+                <td>&nbsp; MIT, Manipal.</td>
+            </tr>
+        </thead>
+    </table>
     <hr>
-    <h3>Contact Me</h3>
-    <p><strong>Phone:</strong> 9632382065</p>
-    <p><strong>Instagram:</strong> mr_kart </p>
-    <p><strong>E-mail:</strong> harowar2002@gmail.com</p>
-    <hr>
-
+    <h3>Contact Me:</h3>
+    <table>
+        <thead>
+            <tr>
+                <td><strong>Phone:</strong></td>
+                <td>&nbsp;9632382065 </td>
+            <tr>
+                <td><strong>Instagram:</strong></td>
+                <td> &nbsp;  mr_kart</td>
+            </tr>
+            <tr>
+                <td><strong>E-mail:</strong></td>
+                <td>&nbsp; harowar2002@gmail.com </td>
+            </tr>
+        </thead>
+    </table>
+   <hr>
 
 </body>
 
 </html>
-
