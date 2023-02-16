@@ -1,1 +1,1 @@
-https://kartlandingpage.netlify.app/
+Deployed link : https://kartlandingpage.netlify.app/
